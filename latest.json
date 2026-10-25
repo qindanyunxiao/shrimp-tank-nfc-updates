@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "1.62",
+  "versionCode": 64,
+  "versionName": "1.63",
   "apkUrl": "https://github.com/qindanyunxiao/shrimp-tank-nfc-updates/releases/latest/download/shrimp-tank-nfc.apk",
-  "sha256": "d5f7c396c1b5fd3341143f5d1083f3042b18d3b674d6d49cd366c6dab9a2c7ea",
-  "notes": "设置页新增检查更新；下载后自动校验 APK 并打开系统安装确认。"
+  "sha256": "b4831b9e24d75e3d24df77c82546eda943961a734a67e25ba35eebb30055dffa",
+  "notes": "首页显示上次换水日期；历史记录按天紧凑展示并支持补录；JSON 备份可直接分享。"
 }
